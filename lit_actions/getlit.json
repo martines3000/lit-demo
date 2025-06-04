@@ -1,0 +1,9 @@
+{
+  "authSig": {
+    "sig": "0x434835387cb6df8af30a831d2f51541d657ed41de490f848037b96c2049961a209e357efe0248807d97d8995157345caede4e3cef6d5785462f5403e0a8efab91b",
+    "derivedVia": "web3.eth.personal.sign",
+    "signedMessage": "localhost:1210 wants you to sign in with your Ethereum account:\n0x5C97460ef76c4c26a8a82a828b74492bc8C09b61\n\n\nURI: http://localhost:1210/auth\nVersion: 1\nChain ID: 1\nNonce: nnB0De75wuF3GuJAk\nIssued At: 2024-04-16T13:50:23.300Z\nExpiration Time: 2024-04-17T13:50:19.540Z",
+    "address": "0x5c97460ef76c4c26a8a82a828b74492bc8c09b61"
+  },
+  "pkpPublicKey": "0x04d9106518ec748eb48f27ee7ee6ba1cfa224d1c2b30f630ff68a95a8dd6b692a03335aacb410d364bb3052d85749df3e440af53828cc36449799e344d3de6cecc"
+}
